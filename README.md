@@ -37,5 +37,3 @@ The dataset contains student performance-related features such as study hours, a
 ## Learning Outcome
 Through this project, I practiced data analysis, statistics, visualization, data interpretation, and basic regression modeling.
 
-## Author
-A.K.M. Mujahidur Rahman
