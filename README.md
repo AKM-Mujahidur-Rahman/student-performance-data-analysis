@@ -37,3 +37,19 @@ The dataset contains student performance-related features such as study hours, a
 ## Learning Outcome
 Through this project, I practiced data analysis, statistics, visualization, data interpretation, and basic regression modeling.
 
+## Repository Files
+
+- `Project.ipynb` - Main Jupyter Notebook for data analysis
+- `StudentPerformanceFactors.csv` - Dataset in CSV format
+- `StudentPerformanceFactors.xlsx` - Dataset in Excel format
+- `303 Project Report Updated.pdf` - Full project report
+- `README.md` - Project documentation
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open `Project.ipynb` using Jupyter Notebook or Google Colab.
+3. Make sure `StudentPerformanceFactors.csv` is in the same folder.
+4. Run the notebook cells step by step.
+
+
